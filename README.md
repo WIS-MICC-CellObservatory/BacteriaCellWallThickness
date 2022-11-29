@@ -77,8 +77,7 @@ By Ofra Golani, MICC Cell Observatory, Weizmann Institute of Science, September 
 
 ##  Usage Instructions
 
-NOTE: Before running the macro, make sure to 
-------------------------------------------------------------
+### NOTE: Before running the macro, make sure to 
  
 1. Scale and Crop images eg using ScaleAndCropImages.ijm macro 
  
