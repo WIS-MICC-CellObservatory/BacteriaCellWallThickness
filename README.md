@@ -26,7 +26,7 @@ Workflow language: ImageJ macro
 <img src="https://github.com/WIS-MICC-CellObservatory/BacteriaCellWallThickness/blob/main/SampleData/ScaledImages/Results/PNG/glu_6800X_0004_LocThkAndSkeleton.png" width="250" title="glu_6800X_0004 Local Thickness And Skeleton"> 
 <img src="https://github.com/WIS-MICC-CellObservatory/BacteriaCellWallThickness/blob/main/SampleData/ScaledImages/Results/PNG/glu_6800X_0004_Mean_Flatten.png" width="250" title="glu_6800X_0004 Mean Thickness"> <br/> <br/>
 <img src="https://github.com/WIS-MICC-CellObservatory/BacteriaCellWallThickness/blob/main/SampleData/ScaledImages/Results/PNG/TSB_6800X_0034_FinalInnerOuterOverlay.png" width="250" title="TSB_6800X_0034_Final Inner Outer Overlay"> 
-<img src="https://github.com/WIS-MICC-CellObservatory/BacteriaCellWallThickness/blob/main/SampleData/ScaledImages/Results/PNG/TSB_6800X_0034_LocThkAndSkeleton.png" width="250" title="TSB_6800X_0034 Local Thickness And Skeleton"> <br/> <br/>
+<img src="https://github.com/WIS-MICC-CellObservatory/BacteriaCellWallThickness/blob/main/SampleData/ScaledImages/Results/PNG/TSB_6800X_0034_LocThkAndSkeleton.png" width="250" title="TSB_6800X_0034 Local Thickness And Skeleton"> 
 <img src="https://github.com/WIS-MICC-CellObservatory/BacteriaCellWallThickness/blob/main/SampleData/ScaledImages/Results/PNG/TSB_6800X_0034_Mean_Flatten.png" width="250" title="TSB_6800X_0034 Mean Thickness"> 
 	<br/> <br/> </p>
 
