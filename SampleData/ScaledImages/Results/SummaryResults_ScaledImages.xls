@@ -1,0 +1,7 @@
+ 	Label	nPairs	meanMeanThk	meanStdThk	meanMaxThk	meanMinThk	meanModeThk
+1	glu_6800X_0004	6.000	0.147	0.055	0.244	0.058	0.236
+2	TSB_6800X_0034	20.000	0.051	0.014	0.081	0.025	0.048
+3	MeanValues	13.000	0.099	0.034	0.162	0.042	0.142
+4	StdValues	9.899	0.068	0.029	0.115	0.023	0.133
+5	MinValues	6.000	0.051	0.014	0.081	0.025	0.048
+6	MaxValues	20.000	0.147	0.055	0.244	0.058	0.236
