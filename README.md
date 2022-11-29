@@ -6,7 +6,7 @@ We quantify the average and standard deviation (StdDev) of bacteria cell wall th
 and then automatically matching the pairs of inner and outer boundaries to create a ring-like region of interest for the cell wall and quantifying the Local thickness along the centerline 
 (skeleton) of each cell wall. Manual drawing was done in Fiji [1] and the boundaries were saved as region of interests (ROIs) file. 
 Automatic quantification was done using Fiji macro that read the TEM image together with the matching ROIs file.  
-All the images were manually calibrated according to the scale bar, in order to get the measurements with proper calibration. Scaling can be done faster using the ScaleAndCropImages.ijm macro from the [Utils](https://github.com/WIS-MICC-CellObservatory/Utils) repository..
+All the images were manually calibrated according to the scale bar, in order to get the measurements with proper calibration. Scaling can be done faster using the ScaleAndCropImages.ijm macro from the [Utils](https://github.com/WIS-MICC-CellObservatory/Utils) repository.
 
 
 Software package: Fiji (ImageJ)
