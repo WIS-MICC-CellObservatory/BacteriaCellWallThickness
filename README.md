@@ -8,14 +8,6 @@ and then automatically matching the pairs of inner and outer boundaries to creat
 Automatic quantification was done using Fiji macro that read the TEM image together with the matching ROIs file.  
 All the images were manually calibrated according to the scale bar, in order to get the measurements with proper calibration. Scaling can be done faster using the ScaleAndCropImages.ijm macro from the [Utils](https://github.com/WIS-MICC-CellObservatory/Utils) repository..
 
-This macro was used in:  <br/> <br/>
-<p align="center">
-	<strong> XXX </strong><br/> <br/>
-	</p>
-	
-<p align="center">
-	<strong>YYY </strong><br/> <br/>
-	</p>
 
 Software package: Fiji (ImageJ)
 
